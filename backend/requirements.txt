@@ -1,0 +1,10 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.5
+Flask-CORS==4.0.0
+Flask-Mail==0.9.1
+Werkzeug==2.3.7
+PyJWT==2.8.0
+python-dateutil==2.8.2
+marshmallow==3.20.1
+validate-email==1.3
